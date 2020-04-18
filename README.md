@@ -5,10 +5,11 @@ Bir süredir PyTorch üzerinden pratikler yapmaya çalışıyorum. Caffe ile ba�
 Bu Colab Notebookda, Evrişimli Sinir Ağları temellerini kullanarak basit bir görüntü sınıflandırma çalışması uygularken [PyTorch Ekosistemindeki](https://pytorch.org/ecosystem/ "Click to visit the PyTorch Ecosystem homepage") yeniliklerden de faydalanacağız.
 
 ### Başlıklar Şöyle:
-**1. Colab Üzerinde Veri Setini Veri Setlerini Kullanma**
-**2. Eğitim, Doğrulama/Geçerleme ve Test Kümelerinin Oluşturulması**
-**3. Dataloaderların Hazırlanması**
-**4. PyTorch Kullanarak CNN Modeli Oluşturma**
+
+<br/>**1. Colab Üzerinde Veri Setini Veri Setlerini Kullanma**
+<br/>**2. Eğitim, Doğrulama/Geçerleme ve Test Kümelerinin Oluşturulması**
+<br/>**3. Dataloaderların Hazırlanması**
+<br/>**4. PyTorch Kullanarak CNN Modeli Oluşturma**
    _4.1.1. Evrişimli Sinir Ağı (CNN) Mimarisi
    4.1.2 Temel bir CNN Katmanı
    4.1.3 Adım kaydırma (Stride)
