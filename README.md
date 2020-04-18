@@ -10,26 +10,26 @@ Bu Colab Notebookda, Evrişimli Sinir Ağları temellerini kullanarak basit bir 
 <br/>**2. Eğitim, Doğrulama/Geçerleme ve Test Kümelerinin Oluşturulması**
 <br/>**3. Dataloaderların Hazırlanması**
 <br/>**4. PyTorch Kullanarak CNN Modeli Oluşturma**
-   _4.1.1. Evrişimli Sinir Ağı (CNN) Mimarisi
-   4.1.2 Temel bir CNN Katmanı
-   4.1.3 Adım kaydırma (Stride)
-   4.1.4 Piksel Ekleme (Padding)
-   4.1.5 Maksimum Ortaklama (Max-Pooling)
-   4.1.6 Aktivasyon Fonksiyonu: ReLU (Rectified Linear Units)
-   4.1.7 Tam Bağlantılı, Lineer Bağlantılı Katmanlar (Fully Connected or Linear Layers)
-   4.2.1 PyTorch (Gelelim Sadede)
-   4.2.2 Hesaplamalı Grafikleri (Computational Graph) Anlama
-   4.2.3 Tensörler
-   4.2.4 Autograd Modülü
-   4.2.5 nn.Module
-   4.2.6 Optim Paketi
-   4.3 Modelimizi tanımlama zamanı!_
-**5. 2020'de bir PyTorch Modeli Eğitelim** 
-**6. Aşırı Uydurma/Öğrenme (Ezberleme) ya da Overfitting naıl birşeydir anlayalım**   
-**7. Daha İyi Bir Eğitim Döngüsü**
-**8. Daha Alımlı Bir Eğitim Döngüsü**
-**9. SONUÇ**
-**10. Teşekkürler**
+   <br/>_4.1.1. Evrişimli Sinir Ağı (CNN) Mimarisi
+   <br/>4.1.2 Temel bir CNN Katmanı
+   <br/>4.1.3 Adım kaydırma (Stride)
+   <br/>4.1.4 Piksel Ekleme (Padding)
+   <br/>4.1.5 Maksimum Ortaklama (Max-Pooling)
+   <br/>4.1.6 Aktivasyon Fonksiyonu: ReLU (Rectified Linear Units)
+   <br/>4.1.7 Tam Bağlantılı, Lineer Bağlantılı Katmanlar (Fully Connected or Linear Layers)
+   <br/>4.2.1 PyTorch (Gelelim Sadede)
+   <br/>4.2.2 Hesaplamalı Grafikleri (Computational Graph) Anlama
+   <br/>4.2.3 Tensörler
+   <br/>4.2.4 Autograd Modülü
+   <br/>4.2.5 nn.Module
+   <br/>4.2.6 Optim Paketi
+   <br/>4.3 Modelimizi tanımlama zamanı!_
+<br/>**5. 2020'de bir PyTorch Modeli Eğitelim** 
+<br/>**6. Aşırı Uydurma/Öğrenme (Ezberleme) ya da Overfitting naıl birşeydir anlayalım**   
+<br/>**7. Daha İyi Bir Eğitim Döngüsü**
+<br/>**8. Daha Alımlı Bir Eğitim Döngüsü**
+<br/>**9. SONUÇ**
+<br/>**10. Teşekkürler**
 
 📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/) **Google Colab Not Defteri**
 
