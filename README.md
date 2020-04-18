@@ -4,7 +4,14 @@ Bir süredir PyTorch üzerinden pratikler yapmaya çalışıyorum. Caffe ile ba�
 
 Bu Colab Notebookda, Evrişimli Sinir Ağları temellerini kullanarak basit bir görüntü sınıflandırma çalışması uygularken [PyTorch Ekosistemindeki](https://pytorch.org/ecosystem/ "Click to visit the PyTorch Ecosystem homepage") yeniliklerden de faydalanacağız.
 
-### Başlıklar Şöyle:
+### Başlayalım!!! 
+<img align="center" src="https://media.giphy.com/media/oio1NtBHjowYE/giphy.gif" width=40% />
+
+📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/PyTorch-ile-Goruntu-Siniflandirma/blob/master/PyTorch_ile_G%C3%B6r%C3%BCnt%C3%BC_S%C4%B1n%C4%B1fland%C4%B1rma.ipynb) **Google Colab Not Defterinde Aç**
+
+📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/PyTorch-ile-Goruntu-Siniflandirma/blob/master/PyTorch_ile_G%C3%B6r%C3%BCnt%C3%BC_S%C4%B1n%C4%B1fland%C4%B1rma.ipynb) **Jupyter Not Defterinde Aç** 
+
+### İçerik:
 
 <br/>**1. Colab Üzerinde Veri Setini Veri Setlerini Kullanma**
 <br/>**2. Eğitim, Doğrulama/Geçerleme ve Test Kümelerinin Oluşturulması**
@@ -30,15 +37,6 @@ Bu Colab Notebookda, Evrişimli Sinir Ağları temellerini kullanarak basit bir 
 <br/>**8. Daha Alımlı Bir Eğitim Döngüsü**
 <br/>**9. SONUÇ**
 <br/>**10. Teşekkürler**
-
-📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/PyTorch-ile-Goruntu-Siniflandirma/blob/master/PyTorch_ile_G%C3%B6r%C3%BCnt%C3%BC_S%C4%B1n%C4%B1fland%C4%B1rma.ipynb) **Google Colab Not Defteri**
-
-
-📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/PyTorch-ile-Goruntu-Siniflandirma/blob/master/PyTorch_ile_G%C3%B6r%C3%BCnt%C3%BC_S%C4%B1n%C4%B1fland%C4%B1rma.ipynb) **Jupyter Not Defteri** 
-
-
-### Başlayalım!!! 
-<img align="center" src="https://media.giphy.com/media/oio1NtBHjowYE/giphy.gif" width=40% />
 
 ---
 
