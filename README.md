@@ -15,7 +15,6 @@ Bu Colab Notebookda, Evrişimli Sinir Ağları temellerini kullanarak basit bir 
 <br/>
 
 ---
-
 <br/>**İçerik:**
 <br/>**1. Colab Üzerinde Veri Setini Veri Setlerini Kullanma**
 <br/>**2. Eğitim, Doğrulama/Geçerleme ve Test Kümelerinin Oluşturulması**
