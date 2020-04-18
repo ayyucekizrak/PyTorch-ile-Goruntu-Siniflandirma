@@ -33,7 +33,7 @@ Bu Colab Notebookda, Evrişimli Sinir Ağları temellerini kullanarak basit bir 
    <br/>4.3 Modelimizi tanımlama zamanı!_
 <br/>**5. 2020'de bir PyTorch Modeli Eğitelim** 
 <br/>**6. Aşırı Uydurma/Öğrenme (Ezberleme) ya da Overfitting naıl birşeydir anlayalım**   
-<br/>**7. Daha İyi Bir Eğitim Döngüsü**
+**7. Daha İyi Bir Eğitim Döngüsü**
 <br/>**8. Daha Alımlı Bir Eğitim Döngüsü**
 <br/>**9. SONUÇ**
 <br/>**10. Teşekkürler**
