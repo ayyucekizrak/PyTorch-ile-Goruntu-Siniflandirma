@@ -8,8 +8,7 @@ Bu Colab Notebookda, Evrişimli Sinir Ağları temellerini kullanarak basit bir 
 <img align="left" src="https://media.giphy.com/media/oio1NtBHjowYE/giphy.gif" width=40% />
 
 📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/PyTorch-ile-Goruntu-Siniflandirma/blob/master/PyTorch_ile_Goruntu_Siniflandirma.ipynb) **Google Colab Not Defterinde Aç**
-
-📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/PyTorch-ile-Goruntu-Siniflandirma/blob/master/PyTorch_ile_Goruntu_Siniflandirma.ipynb) **Jupyter Not Defterinde Aç** 
+ 
 
 <br/>
 <br/>
