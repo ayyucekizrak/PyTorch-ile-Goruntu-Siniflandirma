@@ -4,7 +4,7 @@
 
 Bu Colab Notebookda, Evrişimli Sinir Ağları temellerini kullanarak basit bir görüntü sınıflandırma çalışması uygularken [PyTorch Ekosistemindeki](https://pytorch.org/ecosystem/ "Click to visit the PyTorch Ecosystem homepage") yeniliklerden de faydalanacağız.
 
-<img align="center" src="https://media.giphy.com/media/oio1NtBHjowYE/giphy.gif">
+<img align="center" src="https://media.giphy.com/media/oio1NtBHjowYE/giphy.gif" width=30% />
 
 
 
