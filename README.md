@@ -9,7 +9,7 @@ Bu Colab Notebookda, Evrişimli Sinir Ağları temellerini kullanarak basit bir 
 
 📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/PyTorch-ile-Goruntu-Siniflandirma/blob/master/PyTorch_ile_G%C3%B6r%C3%BCnt%C3%BC_S%C4%B1n%C4%B1fland%C4%B1rma.ipynb) **Google Colab Not Defterinde Aç**
 
-📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/PyTorch-ile-Goruntu-Siniflandirma/blob/master/PyTorch-ile-Goruntu-Siniflandirma/blob/master/PyTorch_ile_Görüntü_Sınıflandırma.ipynb) **Jupyter Not Defterinde Aç** 
+📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/PyTorch-ile-Goruntu-Siniflandirma/blob/master/PyTorch-ile-Goruntu-Siniflandirma/blob/master/PyTorch_ile_G%C3%B6r%C3%BCnt%C3%BC_S%C4%B1n%C4%B1fland%C4%B1rma.ipynb) **Jupyter Not Defterinde Aç** 
 
 <br/>
 <br/>
